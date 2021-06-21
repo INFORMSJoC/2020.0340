@@ -16,6 +16,7 @@ in the development repository.
 https://github.com/optimatorlab/veroviz. Please go there if you would like to
 get a more recent version or would like support.**
 
+--- 
 
 [![PyPI version](https://img.shields.io/pypi/v/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/) [![License](https://img.shields.io/pypi/l/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/)
 
