@@ -1,4 +1,21 @@
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
 # VeRoViz: Vehicle Routing Visualization
+
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.md).
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper 
+[FIXME -- This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by L. Peng and C. Murray. 
+The snapshot is based on 
+[FIXME -- this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
+in the development repository. 
+
+**Important: This code is being developed on an on-going basis at 
+https://github.com/optimatorlab/veroviz. Please go there if you would like to
+get a more recent version or would like support.**
+
 
 [![PyPI version](https://img.shields.io/pypi/v/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/) [![License](https://img.shields.io/pypi/l/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/)
 
@@ -31,6 +48,28 @@ The aim of VeRoViz is to help such a user
 
 VeRoViz is not an optimization package. If you're interested in vehicle routing solvers, you might consider [GraphHopper](https://graphhopper.com/), [Vroom](https://vroom-project.org/), [OR-Tools](https://developers.google.com/optimization/routing/vrp), [VeRyPy](https://github.com/yorak/VeRyPy), or [VRPy](https://github.com/Kuifje02/vrpy).
 
+
+---
+
+## Cite
+
+To cite this software, please cite the [FIXME -- paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+
+FIXME -- [![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{veroviz2021,
+  author    = {Lan Peng and Chase Murray},
+  title     = {{VeRoViz}: A Vehicle Routing Visualization Toolkit}, 
+  publisher =     {INFORMS Journal on Computing},
+  year      = {2021},
+  doi       = {FIXME -- 10.5281/zenodo.3977566},
+  url       = {https://github.com/INFORMSJoC/2020.0340},
+}  
+```
+
 ---
 
 ## Contact
@@ -49,20 +88,6 @@ VeRoViz is not an optimization package. If you're interested in vehicle routing 
  
 We hope that VeRoViz adds value to your vehicle routing research. As always, we welcome your feedback (in the form of comments about how you're using the tool, issues you're experiencing, or ideas for new functionality).
 
----
-
-## How to Cite VeRoViz
-If you're using VeRoViz in your research, please consider adding a citation. Our manuscript for VeRoViz is currently under review. You may [view this manuscript on SSRN](https://ssrn.com/abstract=3746037). Until this paper appears in a journal, you may cite VeRoViz with the following BibTeX entry:
-
-```
-@Misc{veroviz2020,
-    title        = {{VeRoViz}: A Vehicle Routing Visualization Toolkit}, 
-    author       = {Lan Peng and Chase Murray},
-    year         = {2020},
-    howpublished = {\url{https://ssrn.com/abstract=3746037}},
-    note         = {Accessed: 2021-05-10}
-}
-```
 
 --- 
 
