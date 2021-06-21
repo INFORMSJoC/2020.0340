@@ -1,6 +1,5 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# VeRoViz: Vehicle Routing Visualization
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.md).
@@ -17,6 +16,8 @@ https://github.com/optimatorlab/veroviz. Please go there if you would like to
 get a more recent version or would like support.**
 
 --- 
+
+# VeRoViz: Vehicle Routing Visualization
 
 [![PyPI version](https://img.shields.io/pypi/v/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/) [![License](https://img.shields.io/pypi/l/veroviz.svg?style=flat)](https://pypi.org/project/veroviz/)
 
