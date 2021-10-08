@@ -294,8 +294,7 @@ vrv.createCesium(assignments = myAssignments, nodes = myNodes,
 
 | ![images/cesium_1.png](images/cesium_1.png) ![images/cesium_2.png](images/cesium_2.png) | 
 | :--: | 
-| *Figure 9: The `createCesium()` function transforms nodes and assignments dataframes into interactive 3D visuals.  
-This demo may be tested at https://veroviz.org/cesium_joc.html.* |
+| *Figure 9: The `createCesium()` function transforms nodes and assignments dataframes into interactive 3D visuals.  This demo may be tested at https://veroviz.org/cesium_joc.html.* |
 
 
 ### 1.7 Visualizing solutions with Gantt charts
@@ -366,8 +365,9 @@ weatherDF[weatherDF['class'] == 'daily'][['dt', 'weather_description', 'wind_spe
 
 ![images/weather_daily.png](images/weather_daily.png)
 
-| *Figure 12: A sample of available weather data.  Hourly forecasts (not displayed above) are also provided by the `getWeather()` function.* |
-
+<center>
+*Figure 12: A sample of available weather data.  Hourly forecasts (not displayed above) are also provided by the `getWeather()` function.* 
+</center>
 
 
 ### 2.3 Elevation
@@ -382,8 +382,9 @@ myArcs[['startLat', 'startLon', 'startElevMeters', 'endLat', 'endLon', 'endElevM
 
 ![images/elevation_arcs.png](images/elevation_arcs.png)
 
-| *Figure 13: Updating an arcs dataframe with elevation data for the starting and ending locations of each arc.* |
-
+<center>
+*Figure 13: Updating an arcs dataframe with elevation data for the starting and ending locations of each arc.* |
+</center>
 
 
 ### 2.4 Finding the nearest point along a path to a location}
