@@ -1,0 +1,149 @@
+{
+    "asset": {
+        "generator": "COLLADA2GLTF",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Z_UP"
+        },
+        {
+            "mesh": 0,
+            "name": "Cube"
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 2
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ],
+            "name": "Cube"
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 36,
+            "max": [
+                25
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 26,
+            "max": [
+                0.9984347224235536,
+                0.9999393224716188,
+                1.0
+            ],
+            "min": [
+                -0.9984347224235536,
+                -0.999939501285553,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 312,
+            "componentType": 5126,
+            "count": 26,
+            "max": [
+                1.041182041168213,
+                2.202058076858521,
+                1.1375620365142825
+            ],
+            "min": [
+                -0.9921216368675232,
+                -2.2344799041748049,
+                -0.0012582539347931745
+            ],
+            "type": "VEC3"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8999450206756592,
+                    0.9000000357627869,
+                    0.9000000357627869,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Material-effect"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 624,
+            "byteLength": 72,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 624,
+            "byteStride": 12,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 696,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/a5l/P0KqfbROF2W9a5l/P0KqfbROF2W9a5l/P0KqfbROF2W9MO0BtQn8f7++dTS8MO0BtQn8f7++dTS8MO0BtQn8f7++dTS8a5l/vwAAAACfF2U9a5l/vwAAAACfF2U9a5l/vwAAAACfF2U97C0CNAb8fz/1djQ87C0CNAb8fz/1djQ87C0CNAb8fz/1djQ8AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/a5l/PwAAAABNGGW9a5l/PwAAAABNGGW9a5l/PwAAAABNGGW97C0CtAn8f7+6czS8a5l/v9gyGDSfF2U9z9LCNAb8fz92dzQ8BjZ6P4XuDED/66S6BjZ6Py80DsD/66S6r/t9vy80DsD/66S6dEWFP/sgDECim5E/yKZtv/8gDECim5E/0KZtv7QBD8Cim5E/dEWFP/sgDECim5E/a0WFP7gBD8Cim5E/BjZ6Py80DsD/66S6BjZ6Py80DsD/66S6a0WFP7gBD8Cim5E/0KZtv7QBD8Cim5E/r/t9vy80DsD/66S60KZtv7QBD8Cim5E/yKZtv/8gDECim5E/BjZ6P4XuDED/66S6pvt9v4XuDED/66S6yKZtv/8gDECim5E/pvt9v4XuDED/66S6a0WFP7gBD8Cim5E/BjZ6P4XuDED/66S6dEWFP/sgDECim5E/BjZ6Py80DsD/66S6r/t9vy80DsD/66S6pvt9v4XuDED/66S6dEWFP/sgDECim5E/AAABAAIAAwAEAAUABgAHAAgACQAKAAsADAANAA4ADwAQABEAEgAAAAIAEwADAAUAFAAVABYAFwAJAAsAGAAMAA4AGQAPABEA"
+        }
+    ]
+}
