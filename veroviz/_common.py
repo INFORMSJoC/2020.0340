@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Lan Peng and Chase Murray
+# Licensed under the MIT License. See LICENSING for details.
+
 import random
 import math
 import re

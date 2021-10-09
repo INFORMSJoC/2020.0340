@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Lan Peng and Chase Murray
+# Licensed under the MIT License. See LICENSING for details.
+
 __version__ = '0.4.5'
 
 # Generate Objects

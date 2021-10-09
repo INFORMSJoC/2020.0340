@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Lan Peng and Chase Murray
+# Licensed under the MIT License. See LICENSING for details.
+
 # Const for distance unit changing
 VRV_CONST_METERS_PER_KILOMETER = 1000.0
 VRV_CONST_METERS_PER_MILE = 1609.34
