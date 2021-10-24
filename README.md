@@ -7,9 +7,9 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[FIXME -- This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by L. Peng and C. Murray. 
+_VeRoViz: A Vehicle Routing Visualization Toolkit_ by L. Peng and C. Murray. 
 The snapshot is based on 
-[FIXME -- this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
+[this SHA](https://github.com/optimatorlab/veroviz/commit/4b4b7da07abbc764169223cc4cac41e19ff7031d) 
 in the development repository. 
 
 **Important: This code is being developed on an on-going basis at 
@@ -55,9 +55,7 @@ VeRoViz is not an optimization package. If you're interested in vehicle routing 
 
 ## Cite
 
-To cite this software, please cite the [FIXME -- paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
-
-FIXME -- [![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+To cite this software, please cite the paper using its DOI (TBD) and the software itself using its DOI.
 
 Below is the BibTex for citing this version of the code.
 
@@ -67,7 +65,7 @@ Below is the BibTex for citing this version of the code.
   title     = {{VeRoViz}: A Vehicle Routing Visualization Toolkit}, 
   publisher =     {INFORMS Journal on Computing},
   year      = {2021},
-  doi       = {FIXME -- 10.5281/zenodo.3977566},
+  doi       = {10.5281/zenodo.???????},
   url       = {https://github.com/INFORMSJoC/2020.0340},
 }  
 ```
