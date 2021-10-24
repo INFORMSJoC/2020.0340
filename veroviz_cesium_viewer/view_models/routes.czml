@@ -1,0 +1,652 @@
+[ 
+{ 
+    "id": "document", 
+    "version": "1.0" 
+}, 
+{ 
+    "id": "o-blue box-/veroviz/models/box_blue.gltf-stationary", 
+    "name": "o-blue box-/veroviz/models/box_blue.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/box_blue.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object blue box", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77738718763484, 42.999290952183784, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-yellow box-/veroviz/models/box_yellow.gltf-stationary", 
+    "name": "o-yellow box-/veroviz/models/box_yellow.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/box_yellow.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object yellow box", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77729668136247, 42.99921465346925, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-red rectangle-/veroviz/models/rectangle_red.gltf-stationary", 
+    "name": "o-red rectangle-/veroviz/models/rectangle_red.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/rectangle_red.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object red rectangle", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77727652564914, 42.99911457465072, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-blue rectangle-/veroviz/models/rectangle_blue.gltf-stationary", 
+    "name": "o-blue rectangle-/veroviz/models/rectangle_blue.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/rectangle_blue.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object blue rectangle", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77733308494106, 42.99902231859418, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-green rectangle-/veroviz/models/rectangle_green.gltf-stationary", 
+    "name": "o-green rectangle-/veroviz/models/rectangle_green.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/rectangle_green.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object green rectangle", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77744849876055, 42.99896701777501, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-white rectangle-/veroviz/models/rectangle_white.gltf-stationary", 
+    "name": "o-white rectangle-/veroviz/models/rectangle_white.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/rectangle_white.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object white rectangle", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77758632192996, 42.998966134945256, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-black rectangle-/veroviz/models/rectangle_black.gltf-stationary", 
+    "name": "o-black rectangle-/veroviz/models/rectangle_black.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/rectangle_black.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object black rectangle", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77770303305559, 42.99901994888228, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-red wedge-/veroviz/models/wedge_red.gltf-stationary", 
+    "name": "o-red wedge-/veroviz/models/wedge_red.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/wedge_red.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object red wedge", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77734640938601, 42.99926692489865, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-blue wedge-/veroviz/models/wedge_blue.gltf-stationary", 
+    "name": "o-blue wedge-/veroviz/models/wedge_blue.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/wedge_blue.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object blue wedge", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77727419476787, 42.99914013257881, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-green wedge-/veroviz/models/wedge_green.gltf-stationary", 
+    "name": "o-green wedge-/veroviz/models/wedge_green.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/wedge_green.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object green wedge", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77734489991926, 42.99901288278845, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-white wedge-/veroviz/models/wedge_white.gltf-stationary", 
+    "name": "o-white wedge-/veroviz/models/wedge_white.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/wedge_white.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object white wedge", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77751732412375, 42.99895932436856, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-black wedge-/veroviz/models/wedge_black.gltf-stationary", 
+    "name": "o-black wedge-/veroviz/models/wedge_black.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/wedge_black.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object black wedge", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77769099552206, 42.99901066586442, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-blue car-/veroviz/models/car_blue.gltf-stationary", 
+    "name": "o-blue car-/veroviz/models/car_blue.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/car_blue.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object blue car", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77776177730759, 42.99911146635913, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-green car-/veroviz/models/car_green.gltf-stationary", 
+    "name": "o-green car-/veroviz/models/car_green.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/car_green.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object green car", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77774400425152, 42.9992117881314, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-red car-/veroviz/models/car_red.gltf-stationary", 
+    "name": "o-red car-/veroviz/models/car_red.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/car_red.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object red car", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77765532593632, 42.99928923461727, 0] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-drone with package-/veroviz/models/drone_package.gltf-stationary", 
+    "name": "o-drone with package-/veroviz/models/drone_package.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/drone_package.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object drone with package", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77776471552703, 42.99913699053589, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-drone-/veroviz/models/drone.gltf-stationary", 
+    "name": "o-drone-/veroviz/models/drone.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/drone.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object drone", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77769552667122, 42.99926468861924, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-UB airplane-/veroviz/models/ub_airplane.gltf-stationary", 
+    "name": "o-UB airplane-/veroviz/models/ub_airplane.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/ub_airplane.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object UB airplane", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77752374509292, 42.99931934969303, 15] 
+        }
+    ]
+}, 
+{ 
+    "id": "o-UB truck-/veroviz/models/ub_truck.gltf-stationary", 
+    "name": "o-UB truck-/veroviz/models/ub_truck.gltf-stationary", 
+    "availability": "2020-10-23T08:00:00Z/2020-10-23T08:01:00Z", 
+    "model": { 
+        "show": true, 
+        "gltf": "/veroviz/models/ub_truck.gltf", 
+        "scale": 1, 
+        "minimumPixelSize": 75 
+    }, 
+    "label": { 
+        "fillColor":[{"rgba":[255,255,0,255]}], 
+        "font":"bold 10pt Segoe UI Semibold", 
+        "horizontalOrigin":"LEFT", 
+        "outlineColor":{"rgba":[0,0,0,255]}, 
+        "pixelOffset":{"cartesian2":[10.0,0.0]}, 
+        "scale":1.0, 
+        "show":[{"boolean":false}], 
+        "style":"FILL", 
+        "text":"Object UB truck", 
+        "verticalOrigin":"BOTTOM"
+    }, 
+    "path":{ 
+        "material":{"solidColor":{"color":{"rgba":[255,255,0,255]}}}, 
+        "width":[{"number":2.0}], 
+        "show":[{"boolean":false}] 
+    }, 
+    "position": [ 
+        { 
+            "interval": "2020-10-23T08:00:00Z/2020-10-23T08:00:30Z", 
+            "cartographicDegrees": [-78.77752374509292, 42.99931934969303, 0] 
+        }
+    ]
+}
+]
