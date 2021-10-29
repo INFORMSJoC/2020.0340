@@ -113,3 +113,4 @@ Here's how you can help:
 - [FAQs](https://veroviz.org/about.html#faqs) - Frequently asked questions.
 - [License](LICENSE.md) - VeRoViz is distributed under the MIT license.
 - [Credits](CREDITS.md) - This project is made possible by numerous other software packages.
+
