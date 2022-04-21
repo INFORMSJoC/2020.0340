@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-_VeRoViz: A Vehicle Routing Visualization Toolkit_ by L. Peng and C. Murray. 
+[VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/ijoc.2022.1159) by L. Peng and C. Murray. 
 The snapshot is based on 
 [this SHA](https://github.com/optimatorlab/veroviz/commit/4b4b7da07abbc764169223cc4cac41e19ff7031d) 
 in the development repository. 
