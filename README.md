@@ -55,9 +55,7 @@ VeRoViz is not an optimization package. If you're interested in vehicle routing 
 
 ## Cite
 
-To cite this software, please cite the paper using its DOI (TBD) and the software itself using its DOI.
-
-[![DOI](https://zenodo.org/badge/378475738.svg)](https://zenodo.org/badge/latestdoi/378475738)
+To cite this software, please cite the paper using its [DOI](https://doi.org/10.1287/ijoc.2022.1159) and the software itself using its [https://doi.org/10.1287/ijoc.2022.1159.cd](https://doi.org/10.1287/ijoc.2022.1159.cd).
 
 Below is the BibTex for citing this version of the code.
 
@@ -67,7 +65,7 @@ Below is the BibTex for citing this version of the code.
   title     = {{VeRoViz}: A Vehicle Routing Visualization Toolkit}, 
   publisher = {INFORMS Journal on Computing},
   year      = {2021},
-  doi       = {10.5281/zenodo.5595093},
+  doi       = {10.1287/ijoc.2022.1159},
   url       = {https://github.com/INFORMSJoC/2020.0340},
 }  
 ```
